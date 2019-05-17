@@ -1,2 +1,4 @@
 # firstgit
-Programa super simples de simulação de conta bancaria.
+Projeto criado para faculdade.
+Criei um sistema de vendas, onde é possível cadastrar funcionarios(atendentes e supervisores), fornecedores, clientes e produtos.
+Fazer o acompanhamento do estoque, assim como realizar vendas e guardar os dados sobre elas.
