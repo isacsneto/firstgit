@@ -59,8 +59,6 @@ clientev char(14),
 qtditens int,
 datavenda char(10),
 valort double,
-FOREIGN KEY (clientev)
-REFERENCES cliente(cpf)
 
 );
 
