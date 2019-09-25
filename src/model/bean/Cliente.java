@@ -7,7 +7,7 @@ package model.bean;
 
 /**
  *
- * @author Eduardo
+ * @author Isac
  */
 public class Cliente {
     
@@ -18,16 +18,6 @@ public class Cliente {
     private String cep;
     private String rua;
     private String numero;
-
-    //public Cliente(String nome, String cpf, String email, String celular, String cep, String rua, String numero) {
-    //    this.nome = nome;
-    //    this.cpf = cpf;
-    //    this.celular = celular;
-    //    this.email = email;
-    //    this.rua = rua;
-    //    this.cep = cep;
-    //    this.numero = numero;
-    //}
 
     public String getNome() {
         return nome;
